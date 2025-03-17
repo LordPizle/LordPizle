@@ -26,7 +26,7 @@ I'm a **Computer Engineering student** at the **University of Greenwich**, passi
 
 ### 📫 How to Reach Me:
 - [www.linkedin.com/in/afeez-awofeso-662665324](#)
-- [opemipoawofeso@gmail.com](#) (Add your email here)
+- [opemipoawofeso@gmail.com](#) 
 
 ### ⚡ Fun Fact:
 I’m always eager to learn and explore new technologies! When I’m not coding, you’ll probably find me researching innovative tech solutions or spending time with family.
